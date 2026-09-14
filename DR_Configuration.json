@@ -1,7 +1,7 @@
 {
   "DownloadUrl": "https://raw.githubusercontent.com/brunoferreiraprado31-design/patch/main",
   "DownloadFileHeader": "Patch_%d.zip",
-  "PatchVersion": 158,
+  "PatchVersion": 2,
   "MinPatchVersion": 1,
   "RunExeFileName": "DigitalAssembly.exe",
   "HomePageUrl": "https://github.com/brunoferreiraprado31-design/patch"
